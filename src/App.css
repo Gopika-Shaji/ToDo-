@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  color: aliceblue;
+}
+input{
+  background-color: black;
+  color: red;
+  padding: 10px;
+  width: 20%;
+  border-radius: 5px;
+  border: none;
+}
+button{
+  width: 10%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: red;
+  font-size: large;
+}
+.list{
+  background-color: green;
+  color: aliceblue;
+  width: 300px;
+  padding: 1px;
+  margin: 10px;
+  margin-left: 40%;
+  border-radius: 5px;
+  border: none;
+}
